@@ -16,6 +16,7 @@
 * [Writing Google ads](https://twitter.com/Siddharth87/status/1282823360825581568)
 * [Summarizing famous people thoughts](https://twitter.com/paraschopra/status/1284423233047900161)
 * [GPT-3 generating color scales from color name or emojis](https://twitter.com/hturan/status/1282381985642614790)
+* [Physics questions](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
 * [Responding medical questions](https://twitter.com/QasimMunye/status/1278750809094750211)
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
 * [Write this like an attorney](https://twitter.com/f_j_j_/status/1283349995144359937)
@@ -39,4 +40,5 @@
 * [GPT-3 Creative Fiction by Gwern](https://www.gwern.net/GPT-3)
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html?s=09) 
 * [OpenAI's GPT-3 may be the biggest thing since bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
+* [To what extent is GPT-3 capable of reasoning?](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
 
