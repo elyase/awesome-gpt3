@@ -34,6 +34,7 @@
 * [How GPT3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
 * [[Video] Paper explanation](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
+* [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/)
 * [GPT-3: An AI that’s eerily good at writing almost anything](https://arr.am/2020/07/09/gpt-3-an-ai-thats-eerily-good-at-writing-almost-anything/)
 * [GPT-3 Creative Fiction by Gwern](https://www.gwern.net/GPT-3)
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html?s=09) 
