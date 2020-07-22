@@ -22,7 +22,7 @@
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
 * [Reading code and responding questions about it](https://twitter.com/amasad/status/1285797739930869761)
 * [Write this like an attorney](https://twitter.com/f_j_j_/status/1283349995144359937)
-* [[Law] Automatically generating request for admissions](https://twitter.com/f_j_j_/status/1284050844787200000)
+* [[Law] Automatically generating Request for Admissions](https://twitter.com/f_j_j_/status/1284050844787200000)
 * [Writing full emails from key points](https://twitter.com/OthersideAI/status/1285776335638614017)
 * [Coping with non-sense questions](https://twitter.com/nicklovescode/status/1284050958977130497)
 * [Generating Latex from description](https://twitter.com/sh_reya/status/1284746918959239168)
@@ -31,6 +31,8 @@
 * [Generating python](https://twitter.com/josephbrionesaz/status/1283097878223675392)
 * [Simplifying legal language](https://twitter.com/michaeltefula/status/1285505897108832257)
 * [Generating presentations](http://www.bemmu.com/gpt3-presentation)
+* [Creating charts from a description](https://twitter.com/nutanc/status/1285436266276745221)
+* [Food recipe maker](https://twitter.com/nutanc/status/1285602813385605120)
 * ["How to recruit board members"](https://twitter.com/zebulgar/status/1283927560435326976)
 * [Shakespeare style](https://twitter.com/Merzmensch/status/1282957710024159234)
 
