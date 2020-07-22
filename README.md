@@ -38,6 +38,7 @@
 
 ## Articles
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
+* [GPT-3: A Hitchhiker's Guide](https://lambdalabs.com/blog/gpt-3/)
 * [[Video] Paper explanation](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 * [OpenAI's GPT-3 Language Model: A Technical Overview](https://lambdalabs.com/blog/demystifying-gpt-3/)
@@ -50,3 +51,4 @@
 ## Products
 * [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
 * [Debuild](https://debuild.co): Describe what your web app should do in plain English, then start using it within seconds.
+* [AI Dungeon](https://play.aidungeon.io): An AI generated text adventure that uses deep learning to create each adventure
