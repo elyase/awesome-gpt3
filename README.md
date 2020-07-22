@@ -20,8 +20,10 @@
 * [GPT-3 doing math](https://twitter.com/kleptid/status/1284069270603866113/photo/1)
 * [Responding medical questions](https://twitter.com/QasimMunye/status/1278750809094750211)
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
+* [Reading code and responding questions about it](https://twitter.com/amasad/status/1285797739930869761)
 * [Write this like an attorney](https://twitter.com/f_j_j_/status/1283349995144359937)
 * [[Law] Automatically generating request for admissions](https://twitter.com/f_j_j_/status/1284050844787200000)
+* [Writing full emails from key points](https://twitter.com/OthersideAI/status/1285776335638614017)
 * [Coping with non-sense questions](https://twitter.com/nicklovescode/status/1284050958977130497)
 * [Generating Latex from description](https://twitter.com/sh_reya/status/1284746918959239168)
 * [Generating SQL code](https://twitter.com/aquariusacquah/status/1284706786247880705)
@@ -43,3 +45,6 @@
 * [OpenAI's GPT-3 may be the biggest thing since bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 * [To what extent is GPT-3 capable of reasoning?](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
 
+## Products
+* [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
+* [Debuild](https://debuild.co): Describe what your web app should do in plain English, then start using it within seconds.
