@@ -50,6 +50,7 @@
 * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html?s=09) 
 * [OpenAI's GPT-3 may be the biggest thing since bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 * [To what extent is GPT-3 capable of reasoning?](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
+* [Longevity, and resets.](https://minutes.substack.com/p/longevity-and-resets)
 
 ## Products
 * [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
