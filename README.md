@@ -35,6 +35,7 @@
 * [Food recipe maker](https://twitter.com/nutanc/status/1285602813385605120)
 * ["How to recruit board members"](https://twitter.com/zebulgar/status/1283927560435326976)
 * [Shakespeare style](https://twitter.com/Merzmensch/status/1282957710024159234)
+* [Generate a quiz on any topic and evaluate students answers](https://twitter.com/Learn_Awesome/status/1286189729826738176)
 
 ## Articles
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
