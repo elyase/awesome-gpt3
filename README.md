@@ -36,6 +36,8 @@
 * ["How to recruit board members"](https://twitter.com/zebulgar/status/1283927560435326976)
 * [Shakespeare style](https://twitter.com/Merzmensch/status/1282957710024159234)
 * [Generate a quiz on any topic and evaluate students answers](https://twitter.com/Learn_Awesome/status/1286189729826738176)
+* [Iteratively drafted non-literal poetry translation with annotations](https://imgur.com/a/3rmMVHC) 
+* [Reasoning questions](https://www.reddit.com/r/MachineLearning/comments/hvssqn/d_gpt3_demos/fyylreb/)
 
 ## Articles
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
