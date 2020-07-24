@@ -38,6 +38,12 @@
 * [Generate a quiz on any topic and evaluate students answers](https://twitter.com/Learn_Awesome/status/1286189729826738176)
 * [Iteratively drafted non-literal poetry translation with annotations](https://imgur.com/a/3rmMVHC) 
 * [Reasoning questions](https://www.reddit.com/r/MachineLearning/comments/hvssqn/d_gpt3_demos/fyylreb/)
+* [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
+* [Natural-language interface to spreadsheet by generating code](https://twitter.com/itsyashdani/status/1285695850300219392)
+* [Rephrasing sentences to be more polite](https://twitter.com/eturner303/status/1285342431244763136)
+* [Generating history questions, with answers](https://twitter.com/mckaywrigley/status/1285827683776004096)
+* [Working through questions in multiple steps](https://twitter.com/nnotm/status/1285915609952288770)
+* [Generating and iteratively updating graphs](https://twitter.com/plotlygraphs/status/1286688715167936512)
 
 ## Articles
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
