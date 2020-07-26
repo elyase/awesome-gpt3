@@ -11,6 +11,7 @@
 * [React component based on description](https://twitter.com/sharifshameem/status/1284095222939451393)
 * [React component based on variable name alone](https://twitter.com/hturan/status/1282261783147958272)
 * [GPT-3 generating color scales from color name or emojis](https://twitter.com/hturan/status/1282381985642614790)
+* [Website generation in Figma from a description](https://twitter.com/jsngr/status/1287026808429383680)
 
 ### Search and data analysis
 * [Question answering and search engine](https://twitter.com/paraschopra/status/1284801028676653060)
@@ -23,12 +24,15 @@
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
 * [Reading code and responding questions about it](https://twitter.com/amasad/status/1285797739930869761)
 * [Generating Latex from description](https://twitter.com/sh_reya/status/1284746918959239168)
-* [Generating SQL code](https://twitter.com/aquariusacquah/status/1284706786247880705)
+* [Generating SQL code 1](https://twitter.com/aquariusacquah/status/1284706786247880705)
+* [Generating SQL code 2](https://twitter.com/FaraazNishtar/status/1285934622891667457)
 * [Coding interview](https://twitter.com/lacker/status/1279136788326432771/photo/1)
 * [Generating python](https://twitter.com/josephbrionesaz/status/1283097878223675392)
 * [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
+* [AI Inceptiion: GPT-3 generating machine learning code](https://twitter.com/mattshumer_/status/1287125015528341506)
 
-### Text translation
+
+### Text generation
 * [Translating into several languages](https://www.johnfaben.com/blog/gpt-3-translations)
 * [Write this like an attorney](https://twitter.com/f_j_j_/status/1283349995144359937)
 * [Automatically generating Request for Admissions](https://twitter.com/f_j_j_/status/1284050844787200000)
@@ -37,6 +41,7 @@
 * [Iteratively drafted non-literal poetry translation with annotations](https://imgur.com/a/3rmMVHC) 
 * [Rephrasing sentences to be more polite](https://twitter.com/eturner303/status/1285342431244763136)
 * [Summarizing famous people thoughts](https://twitter.com/paraschopra/status/1284423233047900161)
+* [Priming GPT-3 to Speak like Any Big Five Personality](https://medium.com/intuitionmachine/priming-gpt-3-to-speak-like-any-big-five-personality-b610f5aca94f)
 
 ### Content creation
 * [Content creation for marketing](https://twitter.com/Siddharth87/status/1282823354567626754)
@@ -47,6 +52,7 @@
 * [Shakespeare-style poetry generation](https://twitter.com/Merzmensch/status/1282957710024159234)
 * [Generate a quiz on any topic and evaluate students answers](https://twitter.com/Learn_Awesome/status/1286189729826738176)
 * [Generating history questions, with answers](https://twitter.com/mckaywrigley/status/1285827683776004096)
+* [Text completion and style rewriting](https://twitter.com/IntuitMachine/status/1287050253103968257)
 
 ### General reasoning
 * [Physics questions](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
@@ -55,6 +61,12 @@
 * [Coping with non-sense questions](https://twitter.com/nicklovescode/status/1284050958977130497)
 * [Reasoning questions](https://www.reddit.com/r/MachineLearning/comments/hvssqn/d_gpt3_demos/fyylreb/)
 * [Working through questions in multiple steps](https://twitter.com/nnotm/status/1285915609952288770)
+* [Determining food ingredients and healthiness from a picture](https://twitter.com/lawderpaul/status/1284972517749338112)
+* [Psychology: neurotypical -> autistic translation](https://twitter.com/pmigdal/status/1287360452687781888)
+
+### Other
+* [GPT-3 playing chess](https://twitter.com/SRajdev/status/1287353220218662912)
+
 
 ## Articles
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
