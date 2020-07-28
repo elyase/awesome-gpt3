@@ -5,7 +5,6 @@
 ## Demos
 
 ### App and layout tools
-* [Tailwind CSS code generator](https://gpt-tailwind.com/)
 * [HTML layout generator](https://twitter.com/sharifshameem/status/1282676454690451457)
 * [Creating app design from a description](https://twitter.com/jsngr/status/1284511080715362304)
 * [React todo list](https://twitter.com/sharifshameem/status/1284421499915403264?s=09)
@@ -83,6 +82,7 @@
 * [Longevity, and resets.](https://minutes.substack.com/p/longevity-and-resets)
 
 ## Products
+* [Tailwind CSS code generator](https://gpt-tailwind.com/)
 * [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
 * [Debuild](https://debuild.co): Describe what your web app should do in plain English, then start using it within seconds.
 * [AI Dungeon](https://play.aidungeon.io): An AI generated text adventure that uses deep learning to create each adventure
