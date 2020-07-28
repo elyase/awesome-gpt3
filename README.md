@@ -85,6 +85,10 @@
 * [To what extent is GPT-3 capable of reasoning?](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
 * [Longevity, and resets.](https://minutes.substack.com/p/longevity-and-resets)
 
+## Github
+* [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes](https://github.com/shreyashankar/gpt3-sandbox)
+* [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
+
 ## Products
 * [Tailwind CSS code generator](https://gpt-tailwind.com/)
 * [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
