@@ -5,6 +5,7 @@
 ## Demos
 
 ### App and layout tools
+* [Tailwind CSS code generator](https://gpt-tailwind.com/)
 * [HTML layout generator](https://twitter.com/sharifshameem/status/1282676454690451457)
 * [Creating app design from a description](https://twitter.com/jsngr/status/1284511080715362304)
 * [React todo list](https://twitter.com/sharifshameem/status/1284421499915403264?s=09)
