@@ -67,10 +67,13 @@
 
 ### Other
 * [GPT-3 playing chess](https://twitter.com/SRajdev/status/1287353220218662912)
+* [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
+* [Patient diagnosis from clinical vignettes](https://twitter.com/AndrewLBeam/status/1287772781480820737)
 
 
 ## Articles
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
+* [GPT-3 and A Typology of Hype](https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype?s=09)
 * [GPT-3: A Hitchhiker's Guide](https://lambdalabs.com/blog/gpt-3/)
 * [[Video] Paper explanation](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 * [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
