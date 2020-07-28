@@ -22,7 +22,7 @@
 
 ### Program generation and analysis
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
-* [Reading code and responding questions about it](https://twitter.com/amasad/status/1285797739930869761)
+* [Reading code and responding to questions about it](https://twitter.com/amasad/status/1285797739930869761)
 * [Generating Latex from description](https://twitter.com/sh_reya/status/1284746918959239168)
 * [Generating SQL code 1](https://twitter.com/aquariusacquah/status/1284706786247880705)
 * [Generating SQL code 2](https://twitter.com/FaraazNishtar/status/1285934622891667457)
