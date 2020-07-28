@@ -45,6 +45,7 @@
 
 ### Content creation
 * [Content creation for marketing](https://twitter.com/Siddharth87/status/1282823354567626754)
+* [Generating memes](https://twitter.com/wowitsmrinal/status/1287175391040290816)
 * [Writing Google ads](https://twitter.com/Siddharth87/status/1282823360825581568)
 * [Generating presentations](http://www.bemmu.com/gpt3-presentation)
 * [Food recipe maker](https://twitter.com/nutanc/status/1285602813385605120)
