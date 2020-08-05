@@ -54,6 +54,7 @@
 * [Generate a quiz on any topic and evaluate students answers](https://twitter.com/Learn_Awesome/status/1286189729826738176)
 * [Generating history questions, with answers](https://twitter.com/mckaywrigley/status/1285827683776004096)
 * [Text completion and style rewriting](https://twitter.com/IntuitMachine/status/1287050253103968257)
+* [Music video generation with FlowGAN](https://twitter.com/ben_j_lindsay/status/1285916776497401860
 
 ### General reasoning
 * [Physics questions](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
