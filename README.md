@@ -31,6 +31,7 @@
 * [Generating python](https://twitter.com/josephbrionesaz/status/1283097878223675392)
 * [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
 * [AI Inceptiion: GPT-3 generating machine learning code](https://twitter.com/mattshumer_/status/1287125015528341506)
+* [Most Recommended Books: GPT-3 based book recommendations](http://mostrecommendedbooks.com/gpt3)
 
 
 ### Text generation
