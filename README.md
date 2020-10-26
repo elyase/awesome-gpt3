@@ -32,7 +32,7 @@
 * [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
 * [AI Inceptiion: GPT-3 generating machine learning code](https://twitter.com/mattshumer_/status/1287125015528341506)
 * [Most Recommended Books: GPT-3 based book recommendations](http://mostrecommendedbooks.com/gpt3)
-
+* [Extracting information from documents, powered by GPT-3](https://twitter.com/theaievangelist/status/1300862719969681411)
 
 ### Text generation
 * [Translating into several languages](https://www.johnfaben.com/blog/gpt-3-translations)
