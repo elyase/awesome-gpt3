@@ -86,6 +86,7 @@
 * [OpenAI's GPT-3 may be the biggest thing since bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/)
 * [To what extent is GPT-3 capable of reasoning?](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
 * [Longevity, and resets.](https://minutes.substack.com/p/longevity-and-resets)
+* [Can GPT-3 Build a GPT-3 App?](https://medium.com/swlh/can-gpt-3-build-a-gpt-3-app-dc4d17a5b351)
 
 ## Github
 * [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes](https://github.com/shreyashankar/gpt3-sandbox)
