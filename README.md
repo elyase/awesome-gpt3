@@ -93,7 +93,7 @@
 * [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
 
 ## Products
-* [Tailwind CSS code generator](https://gpt-tailwind.com/)
+* [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
 * [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
 * [Debuild](https://debuild.co): Describe what your web app should do in plain English, then start using it within seconds.
 * [AI Dungeon](https://play.aidungeon.io): An AI generated text adventure that uses deep learning to create each adventure
