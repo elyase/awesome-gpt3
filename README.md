@@ -74,6 +74,7 @@
 
 
 ## Articles
+* [Can GPT-3 Build a GPT-3 App?](https://medium.com/swlh/can-gpt-3-build-a-gpt-3-app-dc4d17a5b351)
 * [How GPT-3 works](https://twitter.com/JayAlammar/status/1285498971960598529)
 * [GPT-3 and A Typology of Hype](https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype?s=09)
 * [GPT-3: A Hitchhiker's Guide](https://lambdalabs.com/blog/gpt-3/)
@@ -100,3 +101,4 @@
 * [Presentations.ai](https://presentations.ai) Visually stunning presentations 
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
+* [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
