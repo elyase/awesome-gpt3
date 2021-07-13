@@ -102,3 +102,4 @@
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 * [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
+* [Pen.el](https://github.com/semiosis/pen.el): GPT-3 editing mode for emacs
