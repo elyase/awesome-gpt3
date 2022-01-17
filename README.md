@@ -20,6 +20,7 @@
 * [Natural-language interface to spreadsheet by generating code](https://twitter.com/itsyashdani/status/1285695850300219392)
 * [Generating and iteratively updating graphs](https://twitter.com/plotlygraphs/status/1286688715167936512)
 * [Guessing the movie/tv show by a description](https://www.linkedin.com/posts/mehdimabrouki_artificialintelligence-deeplearning-nlp-activity-6701068610695135232-uRur)
+* [LeetCode Search - GPT-3 powered search engine for LeetCode](https://www.linkedin.com/posts/girishjeyakumar_openai-gpt3-python-activity-6888291748725035008-R0WR)
 
 ### Program generation and analysis
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
