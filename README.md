@@ -23,6 +23,7 @@
 * [LeetCode Search: GPT-3 powered search engine for LeetCode](https://www.linkedin.com/posts/girishjeyakumar_openai-gpt3-python-activity-6888291748725035008-R0WR)
 
 ### Program generation and analysis
+Also check out [awesome-codex](https://github.com/KarelDO/awesome-codex) for more code related applications.
 * [Translating natural language into shell commmands](https://twitter.com/harlandduman/status/1282132804034150400)
 * [Reading code and responding to questions about it](https://twitter.com/amasad/status/1285797739930869761)
 * [Generating Latex from description](https://twitter.com/sh_reya/status/1284746918959239168)
