@@ -67,6 +67,7 @@
 * [Working through questions in multiple steps](https://twitter.com/nnotm/status/1285915609952288770)
 * [Determining food ingredients and healthiness from a picture](https://twitter.com/lawderpaul/status/1284972517749338112)
 * [Psychology: neurotypical -> autistic translation](https://twitter.com/pmigdal/status/1287360452687781888)
+* [Image And Website/Link Understanding](https://text-generator.io/blog/text-generator-now-researches-via-crawling)
 
 ### Game generation
 * [GPT-3 generating snake game](https://twitter.com/kugos0/status/1600794621730095104)
@@ -107,3 +108,7 @@
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 * [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
+
+## Alternatives
+* [Text Generator](https://text-generator.io)
+* [AI21 Labs](https://www.ai21.com/studio)
