@@ -68,6 +68,9 @@
 * [Determining food ingredients and healthiness from a picture](https://twitter.com/lawderpaul/status/1284972517749338112)
 * [Psychology: neurotypical -> autistic translation](https://twitter.com/pmigdal/status/1287360452687781888)
 
+### Game generation
+* [GPT-3 generating snake game](https://twitter.com/kugos0/status/1600794621730095104)
+
 ### Other
 * [GPT-3 playing chess](https://twitter.com/SRajdev/status/1287353220218662912)
 * [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
