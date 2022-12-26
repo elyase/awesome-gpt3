@@ -96,6 +96,7 @@
 * [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes](https://github.com/shreyashankar/gpt3-sandbox)
 * [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
 * [ChatGPT-wrapper: Use it in python and shell](https://github.com/mmabrouk/chatgpt-wrapper)
+* [GPT-3 Telegram Bot to Google Sheets: Connect OpenAI GPT-3 Telegram Bot questions and answers to Google Sheets](https://github.com/meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI)
 
 ## Products
 * [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
