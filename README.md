@@ -107,3 +107,4 @@
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 * [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
+* [GPT proofreading](https://github.com/fukumone/gpt-proofreading#gpt-proofreading): This is a sample project that uses OpenAI to correct and improve text.
