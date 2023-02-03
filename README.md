@@ -96,6 +96,7 @@
 * [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes](https://github.com/shreyashankar/gpt3-sandbox)
 * [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
 * [ChatGPT-wrapper: Use it in python and shell](https://github.com/mmabrouk/chatgpt-wrapper)
+* [openai-chat: Use OpenAI's GPT model to respond to comments posted on Github](https://github.com/fukumone/openai-chat)
 
 ## Products
 * [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
