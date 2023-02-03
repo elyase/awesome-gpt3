@@ -96,6 +96,7 @@
 * [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes](https://github.com/shreyashankar/gpt3-sandbox)
 * [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
 * [ChatGPT-wrapper: Use it in python and shell](https://github.com/mmabrouk/chatgpt-wrapper)
+* [GPT proofreading](https://github.com/fukumone/gpt-proofreading#gpt-proofreading): This is a sample project that uses OpenAI to correct and improve text.
 
 ## Products
 * [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
@@ -107,4 +108,3 @@
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 * [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
-* [GPT proofreading](https://github.com/fukumone/gpt-proofreading#gpt-proofreading): This is a sample project that uses OpenAI to correct and improve text.
