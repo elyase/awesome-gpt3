@@ -75,6 +75,7 @@
 * [GPT-3 playing chess](https://twitter.com/SRajdev/status/1287353220218662912)
 * [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
 * [Patient diagnosis from clinical vignettes](https://twitter.com/AndrewLBeam/status/1287772781480820737)
+* [ChatGPT REPL](https://github.com/evgenyrodionov/chatgpt_repl)
 
 
 ## Articles
