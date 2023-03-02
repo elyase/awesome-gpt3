@@ -109,3 +109,4 @@
 that you can design instantly
 * [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
 * [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
+* [Makelog](https://makelog.com/gpt3): Automated changelog powered by GPT-3
