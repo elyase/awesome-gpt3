@@ -12,6 +12,7 @@
 * [React component based on variable name alone](https://twitter.com/hturan/status/1282261783147958272)
 * [GPT-3 generating color scales from color name or emojis](https://twitter.com/hturan/status/1282381985642614790)
 * [Website generation in Figma from a description](https://twitter.com/jsngr/status/1287026808429383680)
+* [Landing page generation from few questions, code included](https://twitter.com/martindonadieu/status/1643891270853578752?s=20)
 
 ### Search and data analysis
 * [Question answering and search engine](https://twitter.com/paraschopra/status/1284801028676653060)
