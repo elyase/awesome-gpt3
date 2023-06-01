@@ -98,6 +98,7 @@
 * [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
 * [ChatGPT-wrapper: Use it in python and shell](https://github.com/mmabrouk/chatgpt-wrapper)
 * [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+* [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering):  A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering. 
 
 ## Products
 * [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
