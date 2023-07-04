@@ -34,6 +34,7 @@
 * [AI Inceptiion: GPT-3 generating machine learning code](https://twitter.com/mattshumer_/status/1287125015528341506)
 * [Most Recommended Books: GPT-3 based book recommendations](http://mostrecommendedbooks.com/gpt3)
 * [Extracting information from documents, powered by GPT-3](https://twitter.com/theaievangelist/status/1300862719969681411)
+* [Stop Wasting Time For Prototype Generation With 🧩 DemoGPT](https://demogpt.medium.com/stop-wasting-time-for-prototype-generation-with-demogpt-30685dfffa3e)
 
 ### Text generation
 * [Translating into several languages](https://www.johnfaben.com/blog/gpt-3-translations)
@@ -98,6 +99,7 @@
 * [gpt-3-experiments by @minimaxir](https://github.com/minimaxir/gpt-3-experiments)
 * [ChatGPT-wrapper: Use it in python and shell](https://github.com/mmabrouk/chatgpt-wrapper)
 * [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
+* [🧩 DemoGPT enables you to create quick demos by just using prompts.](https://github.com/melih-unsal/DemoGPT)
 
 ## Products
 * [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
