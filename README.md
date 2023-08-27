@@ -100,6 +100,7 @@
 * [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
 ## Products
+* [Airparser](https://airparser.com): Automate data extraction with the GPT-powered parser.
 * [Tailwind CSS code generator](https://themesberg.com/blog/tailwind-css/gpt-3-tailwind-css-ai-code-generator)
 * [OthersideAI](https://twitter.com/OthersideAI): Automatically write emails in your personal style by simply writing the key points you want to get across
 * [Debuild](https://debuild.co): Describe what your web app should do in plain English, then start using it within seconds.
